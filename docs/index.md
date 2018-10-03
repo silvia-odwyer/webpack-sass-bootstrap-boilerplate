@@ -86,5 +86,10 @@ plugins: [
     @import "filename";
 ```
 
+## Official GitHub Repository
+To view this starter's official GitHub repository and source code, just click [here](https://github.com/shaminmeerankutty/webpack-sass-bootstrap-boilerplate). 
+
+We're always open to pull requests and issues, so don't hesitate to open PRs or issues. 
+
 # Licence
 Code released under the [MIT License](https://github.com/shaminmeerankutty/webpack-sass-bootstrap-boilerplate/blob/master/LICENSE.md).
